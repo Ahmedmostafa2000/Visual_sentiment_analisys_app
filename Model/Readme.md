@@ -18,4 +18,4 @@ I used FER_2013 data from kaggle [dataset](https://www.kaggle.com/msambare/fer20
 
 
 # Results
-99% on training data, 65% on validation, 64% on testing data regarding that the state of the art is 75% [paper](https://arxiv.org/pdf/1804.10892.pdf#:~:text=With%20a%20top%20ac%2D%20curacy,the%20best%20accuracy%20of%2087.76%25.)
+99% on training data, 65% on validation, 64% on testing data regarding that the state of the art is 75% ([paper](https://arxiv.org/pdf/1804.10892.pdf#:~:text=With%20a%20top%20ac%2D%20curacy,the%20best%20accuracy%20of%2087.76%25.))
