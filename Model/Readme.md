@@ -5,6 +5,12 @@
 - investigating overfit
 - uploading the model and more investigations
 
+# issues:
+- Grey colour channel
+- tendency to anger more than happiness
+- disgust data lack
+
+
 # required libraries
 - keras
 
