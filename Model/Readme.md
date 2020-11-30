@@ -3,6 +3,7 @@
 - finetuning last two layers for better accuracy
 - investing the lack of disgust data instances
 - investigating overfit
+- uploading the model and more investigations
 
 # required libraries
 - keras
