@@ -4,7 +4,8 @@
 - investing the lack of disgust data instances
 - investigating overfit
 - uploading the model and more investigations
-- trying under-sampling/oversampling for better accuracy
+- trying under-sampling/over-sampling the data for better accuracy as the model biases toworads larger data classes
+- building a bagging model to counter lack of disgust data instances
 
 # issues:
 - Grey colour channel
