@@ -20,7 +20,7 @@
 # model specifications
 - This model was created with Mobilnet v2 as base model
   - MobilNet V2 uses depthwise separable convolution, so it has 3 million parameters and can reach the performance of a network with x10 parameters
-  - The base model is 14 MB due its small parameters numbers, so it fits on a mobile phone and doesn't take much ram to work[paper](https://arxiv.org/pdf/1804.10892.pdf)
+  - The base model is 14 MB due its small parameters numbers, so it fits on a mobile phone and doesn't take much ram to work [paper](https://arxiv.org/pdf/1804.10892.pdf)
 - I added a dense layer after the base model as it raised accuracy
 - the model is built without key points
 
