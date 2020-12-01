@@ -4,11 +4,13 @@
 - investing the lack of disgust data instances
 - investigating overfit
 - uploading the model and more investigations
+- trying under-sampling/oversampling for better accuracy
 
 # issues:
 - Grey colour channel
 - tendency to anger more than happiness
 - disgust data lack
+- tendency to neutral more than sad
 
 
 # required libraries
